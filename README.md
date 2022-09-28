@@ -19,6 +19,11 @@ npm install
 expo start
 ```
 
+# Executando Server
+```sh
+npm run server
+```
+
 # Screenshots
 <p align="center">
   <img src="https://github.com/karenyov/performance-app/blob/main/app.gif" width="300">
